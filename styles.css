@@ -3,3 +3,15 @@
   float: left;
   margin: 15px;
 }
+h2 {
+  font-size: 15px;
+  color: blue;
+}
+div h1 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: DarkTurquoise;
+}
+h1 {
+  text-align: center;
+}
